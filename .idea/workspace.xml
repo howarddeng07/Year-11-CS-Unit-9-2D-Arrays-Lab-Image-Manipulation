@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="65557ac9-effe-4032-98d9-b67ae953d01e" name="Changes" comment="Added APImage, ImageFieFilter, ImagePanel, and Pixel classes." />
+    <list default="true" id="65557ac9-effe-4032-98d9-b67ae953d01e" name="Changes" comment="Added APImage, ImageFieFilter, ImagePanel, and Pixel classes.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/ImageManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/ImageManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/Pixel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/Pixel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2MM3ocmtvGquyyyxcR5qJ1Cw3R5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,6 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -44,7 +56,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathStuff">
+  <component name="RunManager" selected="Application.ImageManipulation">
     <configuration name="ImageManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.ImageManipulation" />
       <module name="Year-11-CS-Unit-8-2D-Arrays-Lab-Image-Manipulation" />
@@ -52,7 +64,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathStuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MathStuff" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MathStuff" />
       <module name="Year-11-CS-Unit-8-2D-Arrays-Lab-Image-Manipulation" />
       <method v="2">
@@ -68,9 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MathStuff" />
-        <item itemvalue="Application.Vehicle" />
         <item itemvalue="Application.ImageManipulation" />
+        <item itemvalue="Application.Vehicle" />
       </list>
     </recent_temporary>
   </component>
